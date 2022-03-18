@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-blue-600 px-32 flex flex-col items-center min-h-screen w-full h-full text-white p-16">
+  <div class="bg-blue-600 px-32 flex flex-col items-center w-full h-full text-white p-16">
     <div class="tracking-widest text-lg">
       FEATURE
     </div>

@@ -5,6 +5,8 @@
     <Benefit />
     <Guide />
     <Explore />
+    <Testimonial />
+    <WaitingFor />
   </div>
 </template>
 

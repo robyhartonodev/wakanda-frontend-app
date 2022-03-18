@@ -1,7 +1,7 @@
 <template>
   <div class="flex justify-between p-5 items-center px-32">
     <div class="text-2xl font-bold flex space-x-2 items-center">
-      <img src="~/assets/images/wakanda-logo.svg" alt="logo-wakanda" class="h-8 w-8">
+      <img src="~/assets/images/wakanda-logo.svg" alt="logo-wakanda" class="h-10 w-10">
       <div>Wakanda</div>
     </div>
     <div class="flex items-center space-x-6 font-semibold">

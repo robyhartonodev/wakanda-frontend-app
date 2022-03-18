@@ -1,6 +1,6 @@
 <template>
   <div class="px-32 flex p-16">
-    <div class="w-1/2">
+    <div class="w-1/2 flex justify-center">
       <img src="~/assets/images/phone.svg" alt="logo-phone" style="width: 30rem;">
     </div>
     <div class="w-1/2 p-5">
