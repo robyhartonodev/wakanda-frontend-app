@@ -3,9 +3,9 @@
     <Hero />
     <SocialProof />
     <Benefit />
-    <Guide />
-    <Explore />
-    <WaitingFor />
+    <!-- <Guide /> -->
+    <!-- <Explore /> -->
+    <!-- <WaitingFor /> -->
   </div>
 </template>
 

@@ -4,11 +4,11 @@
       FEATURE
     </div>
 
-    <div class="text-5xl font-bold text-wrap text-center" style="width: 28rem;">
+    <div class="text-5xl font-bold text-wrap text-center">
       The benefit of using our platform
     </div>
 
-    <div class="grid grid-cols-3 gap-5 mt-24">
+    <div class="grid grid-cols-3 gap-5 mt-12 md:mt-24">
       <div class="flex flex-col space-y-3 col-span-3 md:col-span-1">
         <div class="w-24 h-24 bg-blue-100 rounded-full p-6">
           <div class="text-center text-black w-full h-full">
