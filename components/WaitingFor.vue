@@ -1,10 +1,10 @@
 <template>
-  <div class="px-32 p-16">
-    <div class="bg-blue-600 w-full h-full flex items-center">
-      <div class="w-1/2 h-full flex justify-center">
+  <div class="px-5 md:px-32 p-16">
+    <div class="bg-blue-600 w-full h-full flex flex-col md:flex-row items-center">
+      <div class="w-full md:w-1/2 h-full flex justify-center">
         <img src="~/assets/images/hero-person-three.svg" alt="hero-person" class="w-96">
       </div>
-      <div class="flex flex-col w-1/2 space-y-5 text-white p-8">
+      <div class="flex flex-col w-full md:w-1/2 space-y-5 text-white p-8">
         <div class="tracking-wide">
           WHAT ARE YOU WAITING FOR
         </div>

@@ -1,9 +1,9 @@
 <template>
-  <div class="px-32 flex p-16">
-    <div class="w-1/2 flex justify-center">
+  <div class="px-5 md:px-32 flex flex-col md:flex-row p-16">
+    <div class="w-full md:w-1/2 flex justify-center">
       <img src="~/assets/images/phone.svg" alt="logo-phone" style="width: 30rem;">
     </div>
-    <div class="w-1/2 p-5">
+    <div class="w-full md:w-1/2 p-5">
       <div class="flex flex-col space-y-4">
         <div class="leading-relaxed text-5xl font-semibold">
           Wakanda is an easy platform to find talent

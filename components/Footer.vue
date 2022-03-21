@@ -1,6 +1,6 @@
 <template>
-  <div class="w-full h-full bg-gray-800 px-32 p-16 flex text-gray-100 space-x-10">
-    <div class="flex flex-col w-1/3 space-y-10">
+  <div class="w-full h-full bg-gray-800 px-5 md:px-32 p-16 flex flex-col md:flex-row text-gray-100 space-x-0 md:space-x-10 space-y-10">
+    <div class="flex flex-col w-full md:w-1/3 space-y-10">
       <div class="text-2xl font-bold flex space-x-2 items-center">
         <img src="~/assets/images/wakanda-logo-white.svg" alt="logo-wakanda-white" class="h-10 w-10">
         <div>Wakanda</div>
@@ -23,7 +23,8 @@
         Copyright &#169; 2022 Wakanda. All rights reserved
       </div>
     </div>
-    <div class="flex w-2/3 space-x-16">
+
+    <div class="flex flex-col md:flex-row w-full md:w-2/3 space-x-0 space-y-5 md:space-x-16">
       <div class="flex flex-col space-y-5">
         <div class="text-xl font-semibold">
           Company
@@ -44,9 +45,14 @@
         <a href="#">Privacy policy</a>
         <a href="#">Status</a>
       </div>
-      <!-- <div class="flex flex-col">
-        <div>cokc yep</div>
-      </div> -->
+      <div class="flex flex-col space-y-5">
+        <div class="text-xl font-semibold">
+          Subscribe to our newsletter
+        </div>
+        <div>
+          <input class="rounded-md bg-gray-500 text-gray-100 p-2 w-full" type="text" placeholder="Your email address">
+        </div>
+      </div>
     </div>
   </div>
 </template>
